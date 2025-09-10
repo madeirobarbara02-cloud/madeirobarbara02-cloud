@@ -4,7 +4,7 @@
 
 Me chamo Bárbara Tavares Madeiro, tenho 18 anos e sou de Brasília.
 Conclui o ensino médio no Objetivo e atualmente estou cursando Engenharia de Software no CEUB.
- Tenho grande interesse na tecnologia, seus recurços e possibilidades me motivarama aderir a área.
+ Tenho grande interesse na tecnologia, seus recursos e possibilidades me motivarama aderir a área.
 
 ### ⚪Linguagens e Tecnologias
 
