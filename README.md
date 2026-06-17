@@ -33,7 +33,8 @@ Gosto de criar **Novos projetos**, unindo **HTML**, **Java** e **CSS** para tran
 
 | 💡 Projeto | 🧩 Descrição |
 |-------------|--------------|
-| 🧾 [**Calculadora**](https://github.com/madeirobarbara02-cloud/madeirobarbara02-cloud) | Calculadora funcional |
+| 🧾 [**Calculadora**](https://github.com/madeirobarbara02-cloud/Projeto_Calculadora.git) | Calculadora funcional |
+| 🗄️ [**Banco de Dados Delivery**](https://github.com/madeirobarbara02-cloud/Banco-de-dados_Delivery.git) | Sistema de banco de dados para delivery |
 
 ---
 
