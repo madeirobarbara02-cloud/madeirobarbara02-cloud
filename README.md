@@ -12,11 +12,11 @@
 
 ## 🧠 Sobre mim
 
-Sou **Desenvolvedora**. 
+Sou **Desenvolvedora fullstack**. 
 Gosto de criar **Novos projetos**, unindo **HTML**, **Java** e **CSS** para transformar ideias em resultados.
 
 🎓 Cursando **Engenharia de Software**  
-⚡ Acredito que **Conhecimento é unica coisa que ninguém pode tomar e abre portas para diversas oportunidades**
+⚡ Acredito que **Conhecimento é unica coisa que ninguém pode tomar e abre portas para oportunidades**
 
 ---
 
